@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kill"
+  short_description: "Stop project processes and release memory and ports"
+  default_prompt: "Use $kill to stop processes for the current project, release memory, and verify that its ports are free."
